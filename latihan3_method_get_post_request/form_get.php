@@ -12,7 +12,7 @@
         <br>
         Alamat: <input type="text" name="alamat"/>
         <br>
-        <input type="submit" value="Kirim"/>
+        <input type="submit" value="kirim"/>
     </form>
 </body>
 </html>
