@@ -1,0 +1,6 @@
+RewriteEngineON
+RewriteRule^([a-zA-Z0-9]+)$
+index.php?S=$1
+RewriteRule^([a-zA-Z0-9]+)/$
+index.php?S=$1
+RewriteRule^([a-zA-Z0-9]+)/$ ?S=$1
